@@ -9,5 +9,5 @@ def adjmat_to_adjlist(adjmat: List[List[int]]) -> Dict[int, List[int]]:
                 if(corner := dct.get(i+1)) is None:
                     dct[i+1] = corner = []
                 
-                corner.extend([(j+1) for x in range(elem)])               
+                corner.extend([(j+1) for x in range(elem)])      
     return dct
