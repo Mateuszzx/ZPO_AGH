@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/build",
+  "command": "/usr/bin/g++ -I/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/include -g -std=gnu++17 -o CMakeFiles/tsp.dir/src/tsp_setup.cpp.o -c /home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/src/tsp_setup.cpp",
+  "file": "/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/src/tsp_setup.cpp",
+  "output": "CMakeFiles/tsp.dir/src/tsp_setup.cpp.o"
+},
+{
+  "directory": "/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/build",
+  "command": "/usr/bin/g++ -I/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/include -g -std=gnu++17 -o CMakeFiles/tsp.dir/src/TSP.cpp.o -c /home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/src/TSP.cpp",
+  "file": "/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/src/TSP.cpp",
+  "output": "CMakeFiles/tsp.dir/src/TSP.cpp.o"
+},
+{
+  "directory": "/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/build",
+  "command": "/usr/bin/g++ -I/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/include -g -std=gnu++17 -o CMakeFiles/tsp.dir/main.cpp.o -c /home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/main.cpp",
+  "file": "/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/main.cpp",
+  "output": "CMakeFiles/tsp.dir/main.cpp.o"
+}
+]

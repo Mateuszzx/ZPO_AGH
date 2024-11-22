@@ -65,5 +65,5 @@ def trail_to_str(trail: Trail) -> str:
     for t in trail:
             print(f"-[{t.edge_id}: {t.weight}]-> {t.end_id}", end=" ")
             total_weight += t.weight
-    print(f"(total = {total_weight})")
+    print(f" (total = {total_weight})")
     

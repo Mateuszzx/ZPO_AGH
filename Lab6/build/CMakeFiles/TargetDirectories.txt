@@ -1,0 +1,3 @@
+/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/build/CMakeFiles/tsp.dir
+/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/build/CMakeFiles/edit_cache.dir
+/home/mati/Workspace/AGH_Workspace/ZPO_AGH/Lab6/build/CMakeFiles/rebuild_cache.dir
